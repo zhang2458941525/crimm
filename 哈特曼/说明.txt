@@ -1,4 +1,0 @@
-图：画图函数
-Ackley，cos，hantmann：测试函数
-Hartmannb：主函数
-shuyanhanshu：处理浮选数据函数
